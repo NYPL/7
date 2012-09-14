@@ -190,3 +190,15 @@
 [submodule "sites/all/modules/garland"]
 	path = sites/all/modules/garland
 	url = git://git.drupal.org/project/garland
+[submodule "sites/all/modules/metatag"]
+	path = sites/all/modules/metatag
+	url = http://git.drupal.org/project/metatag.git
+[submodule "sites/all/modules/node_clone"]
+	path = sites/all/modules/node_clone
+	url = http://git.drupal.org/project/node_clone.git
+[submodule "sites/all/modules/redirect"]
+	path = sites/all/modules/redirect
+	url = http://git.drupal.org/project/redirect.git
+[submodule "sites/all/modules/google_analytics"]
+	path = sites/all/modules/google_analytics
+	url = http://git.drupal.org/project/google_analytics.git
