@@ -205,3 +205,6 @@
 [submodule "sites/all/themes/nypl_new"]
 	path = sites/all/themes/nypl_new
 	url = git@github.com:NYPL/nypl_new.git
+[submodule "sites/all/themes/omega"]
+	path = sites/all/themes/omega
+	url = git://git.drupal.org/project/omega
