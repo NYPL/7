@@ -202,3 +202,6 @@
 [submodule "sites/all/modules/google_analytics"]
 	path = sites/all/modules/google_analytics
 	url = http://git.drupal.org/project/google_analytics.git
+[submodule "sites/all/themes/nypl_new"]
+	path = sites/all/themes/nypl_new
+	url = git@github.com:NYPL/nypl_new.git
