@@ -208,3 +208,18 @@
 [submodule "sites/all/themes/omega"]
 	path = sites/all/themes/omega
 	url = git://git.drupal.org/project/omega
+[submodule "sites/all/modules/omega_tools"]
+	path = sites/all/modules/omega_tools
+	url = git://git.drupal.org/project/omega_tools.git
+[submodule "sites/all/modules/devel"]
+	path = sites/all/modules/devel
+	url = git://git.drupal.org/project/devel.git
+[submodule "sites/all/modules/delta"]
+	path = sites/all/modules/delta
+	url = http://git.drupal.org/project/delta.git
+[submodule "sites/all/modules/entity"]
+	path = sites/all/modules/entity
+	url = git://git.drupal.org/project/entity.git
+[submodule "sites/all/modules/entityreference"]
+	path = sites/all/modules/entityreference
+	url = git://git.drupal.org/project/entityreference.git
