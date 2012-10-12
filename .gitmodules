@@ -232,3 +232,6 @@
 [submodule "sites/all/modules/advanced_help"]
 	path = sites/all/modules/advanced_help
 	url = http://git.drupal.org/project/advanced_help.git
+[submodule "sites/all/modules/nypl_events"]
+	path = sites/all/modules/nypl_events
+	url = git@github.com:NYPL/nypl_events.git
