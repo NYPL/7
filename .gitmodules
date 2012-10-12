@@ -223,3 +223,12 @@
 [submodule "sites/all/modules/entityreference"]
 	path = sites/all/modules/entityreference
 	url = git://git.drupal.org/project/entityreference.git
+[submodule "sites/all/modules/references"]
+	path = sites/all/modules/references
+	url = git://git.drupal.org/project/references.git
+[submodule "sites/all/modules/cck"]
+	path = sites/all/modules/cck
+	url = http://git.drupal.org/project/cck.git
+[submodule "sites/all/modules/advanced_help"]
+	path = sites/all/modules/advanced_help
+	url = http://git.drupal.org/project/advanced_help.git
