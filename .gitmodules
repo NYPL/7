@@ -235,3 +235,9 @@
 [submodule "sites/all/modules/nypl_events"]
 	path = sites/all/modules/nypl_events
 	url = git@github.com:NYPL/nypl_events.git
+[submodule "sites/all/modules/locations"]
+	path = sites/all/modules/locations
+	url = git@github.com:NYPL/locations.git
+[submodule "sites/all/modules/nypl_content"]
+	path = sites/all/modules/nypl_content
+	url = git@github.com:NYPL/nypl_content
