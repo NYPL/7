@@ -244,3 +244,6 @@
 [submodule "sites/all/modules/bundle_copy"]
 	path = sites/all/modules/bundle_copy
 	url = http://git.drupal.org/project/bundle_copy.git
+[submodule "sites/all/modules/nypl_digitalgallery"]
+	path = sites/all/modules/nypl_digitalgallery
+	url = git@github.com:NYPL/nypl_digitalgallery.git
