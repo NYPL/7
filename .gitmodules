@@ -235,3 +235,6 @@
 [submodule "sites/all/modules/nypl_events"]
 	path = sites/all/modules/nypl_events
 	url = git@github.com:NYPL/nypl_events.git
+[submodule "sites/all/modules/bundle_copy"]
+	path = sites/all/modules/bundle_copy
+	url = http://git.drupal.org/project/bundle_copy.git
