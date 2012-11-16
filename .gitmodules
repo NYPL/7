@@ -247,3 +247,6 @@
 [submodule "sites/all/modules/nypl_digitalgallery"]
 	path = sites/all/modules/nypl_digitalgallery
 	url = git@github.com:NYPL/nypl_digitalgallery.git
+[submodule "sites/all/drush"]
+	path = sites/all/drush
+	url = git@github.com:NYPL/nypl_drush.git
