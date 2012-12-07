@@ -247,3 +247,6 @@
 [submodule "sites/all/modules/nypl_digitalgallery"]
 	path = sites/all/modules/nypl_digitalgallery
 	url = git@github.com:NYPL/nypl_digitalgallery.git
+[submodule "sites/all/modules/ckeditor"]
+	path = sites/all/modules/ckeditor
+	url = http://git.drupal.org/project/ckeditor.git

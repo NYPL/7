@@ -336,7 +336,6 @@ function _field_info_prepare_instance($instance, $field) {
  */
 function _field_info_prepare_instance_display($field, $display) {
   $field_type = field_info_field_types($field['type']);
-
   // Fill in default values.
   $display += array(
     'label' => 'above',
