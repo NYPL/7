@@ -253,3 +253,6 @@
 [submodule "sites/all/drush"]
 	path = sites/all/drush
 	url = git@github.com:NYPL/nypl_drush.git
+[submodule "sites/all/modules/wysiwyg"]
+	path = sites/all/modules/wysiwyg
+	url = http://git.drupal.org/project/wysiwyg.git
