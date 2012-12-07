@@ -177,8 +177,6 @@ function field_create_field($field) {
   try {
     // Invoke hook_field_storage_create_field after
     // drupal_write_record() sets the field id.
-    print var_export($field, true);
-    $field['columns']['value']['length'] = 255;
     module_invoke($storage_type['module'], 'field_storage_create_field', $field);
   }
   catch (Exception $e) {
