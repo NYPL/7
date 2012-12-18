@@ -256,3 +256,9 @@
 [submodule "sites/all/modules/wysiwyg"]
 	path = sites/all/modules/wysiwyg
 	url = http://git.drupal.org/project/wysiwyg.git
+[submodule "sites/all/modules/nypl_grouper"]
+	path = sites/all/modules/nypl_grouper
+	url = git@github.com:NYPL/nypl_grouper.git
+[submodule "sites/all/modules/nypl_apachesolr"]
+	path = sites/all/modules/nypl_apachesolr
+	url = git@github.com:NYPL/nypl_apachesolr.git
