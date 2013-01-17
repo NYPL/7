@@ -132,7 +132,7 @@
 	url = git://git.drupal.org/project/phpass
 [submodule "sites/all/modules/simplepie"]
 	path = sites/all/modules/simplepie
-	url = git://git.drupal.org/project/simplepie
+	url = http://git.drupal.org/project/simplepie.git
 [submodule "sites/all/modules/taxonomy_defaults"]
 	path = sites/all/modules/taxonomy_defaults
 	url = git://git.drupal.org/project/taxonomy_defaults
