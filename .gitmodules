@@ -1,9 +1,6 @@
 [submodule "sites/all/modules/admin_menu"]
 	path = sites/all/modules/admin_menu
 	url = git://git.drupal.org/project/admin_menu
-[submodule "sites/all/modules/apachesolr"]
-	path = sites/all/modules/apachesolr
-	url = git://git.drupal.org/project/apachesolr
 [submodule "sites/all/modules/autocomplete_widgets"]
 	path = sites/all/modules/autocomplete_widgets
 	url = git://git.drupal.org/project/autocomplete_widgets
