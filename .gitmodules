@@ -259,3 +259,6 @@
 [submodule "sites/all/modules/nypl_apachesolr"]
 	path = sites/all/modules/nypl_apachesolr
 	url = git@github.com:NYPL/nypl_apachesolr.git
+[submodule "sites/all/modules/apachesolr"]
+	path = sites/all/modules/apachesolr
+	url = git@github.com:NYPL/apachesolr.git
