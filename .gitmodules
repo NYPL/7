@@ -268,3 +268,6 @@
 [submodule "sites/all/modules/views_data_export"]
 	path = sites/all/modules/views_data_export
 	url = http://git.drupal.org/project/views_data_export.git
+[submodule "sites/all/modules/term_relations"]
+	path = sites/all/modules/term_relations
+	url = http://git.drupal.org/project/term_relations.git
