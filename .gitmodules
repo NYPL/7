@@ -271,3 +271,6 @@
 [submodule "sites/all/modules/term_relations"]
 	path = sites/all/modules/term_relations
 	url = http://git.drupal.org/project/term_relations.git
+[submodule "sites/all/modules/imagecache_actions"]
+	path = sites/all/modules/imagecache_actions
+	url = http://git.drupal.org/project/imagecache_actions.git
