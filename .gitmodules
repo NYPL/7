@@ -274,3 +274,6 @@
 [submodule "sites/all/modules/imagecache_actions"]
 	path = sites/all/modules/imagecache_actions
 	url = http://git.drupal.org/project/imagecache_actions.git
+[submodule "sites/all/modules/memcache"]
+	path = sites/all/modules/memcache
+	url = http://git.drupal.org/project/memcache.git
