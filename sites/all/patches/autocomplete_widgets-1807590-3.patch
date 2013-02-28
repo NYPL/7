@@ -1,0 +1,17 @@
+diff --git a/autocomplete_widgets.common.inc b/autocomplete_widgets.common.inc
+index 5e623c1..e2d14aa 100755
+--- a/autocomplete_widgets.common.inc
++++ b/autocomplete_widgets.common.inc
+@@ -295,10 +295,10 @@ function _autocomplete_widgets_sort_options(&$options, $instance) {
+   if (isset($instance['widget']['settings']['order'])) {
+     switch ($instance['widget']['settings']['order']) {
+       case 'ASC':
+-        sort($options);
++        asort($options);
+         break;
+       case 'DESC':
+-        rsort($options);
++        arsort($options);
+         break;
+     }
+   }
