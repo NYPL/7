@@ -277,3 +277,9 @@
 [submodule "sites/all/modules/memcache"]
 	path = sites/all/modules/memcache
 	url = http://git.drupal.org/project/memcache.git
+[submodule "sites/all/modules/media"]
+	path = sites/all/modules/media
+	url = http://git.drupal.org/project/media.git
+[submodule "sites/all/modules/file_entity"]
+	path = sites/all/modules/file_entity
+	url = http://git.drupal.org/project/file_entity.git
