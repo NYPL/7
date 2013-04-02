@@ -283,6 +283,3 @@
 [submodule "sites/all/modules/file_entity"]
 	path = sites/all/modules/file_entity
 	url = http://git.drupal.org/project/file_entity.git
-[submodule "field_collection_views"]
-	path = field_collection_views
-	url = http://git.drupal.org/project/field_collection_views.git
