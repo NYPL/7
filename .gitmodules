@@ -12,7 +12,7 @@
 	url = git://git.drupal.org/project/content_taxonomy
 [submodule "sites/all/modules/email"]
 	path = sites/all/modules/email
-	url = git://git.drupal.org/project/email
+	url = http://git.drupal.org/project/email.git
 [submodule "sites/all/modules/fieldgroup"]
 	path = sites/all/modules/fieldgroup
 	url = git://git.drupal.org/project/fieldgroup
