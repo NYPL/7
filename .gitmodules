@@ -292,3 +292,9 @@
 [submodule "sites/all/modules/apc"]
 	path = sites/all/modules/apc
 	url = http://git.drupal.org/project/apc
+[submodule "sites/all/modules/field_permissions"]
+	path = sites/all/modules/field_permissions
+	url = http://git.drupal.org/project/field_permissions
+[submodule "sites/all/modules/field_validation"]
+	path = sites/all/modules/field_validation
+	url = http://git.drupal.org/project/field_validation
