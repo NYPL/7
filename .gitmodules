@@ -298,3 +298,6 @@
 [submodule "sites/all/modules/field_validation"]
 	path = sites/all/modules/field_validation
 	url = http://git.drupal.org/project/field_validation
+[submodule "sites/all/modules/unique_field"]
+	path = sites/all/modules/unique_field
+	url = http://git.drupal.org/project/unique_field.git
