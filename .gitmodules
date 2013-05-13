@@ -304,3 +304,9 @@
 [submodule "sites/all/modules/unique_field"]
 	path = sites/all/modules/unique_field
 	url = http://git.drupal.org/project/unique_field.git
+[submodule "sites/all/modules/nypl_homepage"]
+	path = sites/all/modules/nypl_homepage
+	url = git@github.com:NYPL/nypl_homepage.git
+[submodule "sites/all/modules/node_export"]
+	path = sites/all/modules/node_export
+	url = http://git.drupal.org/project/node_export.git
