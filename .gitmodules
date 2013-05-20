@@ -301,3 +301,6 @@
 [submodule "sites/all/modules/unique_field"]
 	path = sites/all/modules/unique_field
 	url = http://git.drupal.org/project/unique_field.git
+[submodule "sites/all/modules/shrew"]
+	path = sites/all/modules/shrew
+	url = git@github.com:NYPL/shrew.git
