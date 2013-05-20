@@ -289,6 +289,9 @@
 [submodule "sites/all/modules/field_group"]
 	path = sites/all/modules/field_group
 	url = http://git.drupal.org/project/field_group.git
+[submodule "sites/all/modules/nypl_bibliocommons"]
+	path = sites/all/modules/nypl_bibliocommons
+	url = git@github.com:NYPL/nypl_bibliocommons.git
 [submodule "sites/all/modules/apc"]
 	path = sites/all/modules/apc
 	url = http://git.drupal.org/project/apc
