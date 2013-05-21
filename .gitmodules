@@ -298,15 +298,12 @@
 [submodule "sites/all/modules/field_permissions"]
 	path = sites/all/modules/field_permissions
 	url = http://git.drupal.org/project/field_permissions
-[submodule "sites/all/modules/field_validation"]
-	path = sites/all/modules/field_validation
-	url = http://git.drupal.org/project/field_validation
 [submodule "sites/all/modules/unique_field"]
 	path = sites/all/modules/unique_field
 	url = http://git.drupal.org/project/unique_field.git
-[submodule "sites/all/modules/nypl_homepage"]
-	path = sites/all/modules/nypl_homepage
-	url = git@github.com:NYPL/nypl_homepage.git
 [submodule "sites/all/modules/node_export"]
 	path = sites/all/modules/node_export
 	url = http://git.drupal.org/project/node_export.git
+[submodule "sites/all/modules/shrew"]
+	path = sites/all/modules/shrew
+	url = git@github.com:NYPL/shrew.git
