@@ -265,32 +265,8 @@ function _field_info_prepare_instance($instance, $field) {
  * @see FieldInfo::prepareInstanceDisplay()
  */
 function _field_info_prepare_instance_display($field, $display) {
-<<<<<<< HEAD
-  $field_type = field_info_field_types($field['type']);
-  // Fill in default values.
-  $display += array(
-    'label' => 'above',
-    'type' => $field_type['default_formatter'],
-    'settings' => array(),
-    'weight' => 0,
-  );
-  if ($display['type'] != 'hidden') {
-    $formatter_type = field_info_formatter_types($display['type']);
-    // Fallback to default formatter if formatter type is not available.
-    if (!$formatter_type) {
-      $display['type'] = $field_type['default_formatter'];
-      $formatter_type = field_info_formatter_types($display['type']);
-    }
-    $display['module'] = $formatter_type['module'];
-    // Fill in default settings for the formatter.
-    $display['settings'] += field_info_formatter_settings($display['type']);
-  }
-
-  return $display;
-=======
   $cache = _field_info_field_cache();
   return $cache->prepareInstanceDisplay($display, $field['type']);
->>>>>>> remotes/drupal-7.22/master
 }
 
 /**
