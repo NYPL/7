@@ -307,3 +307,6 @@
 [submodule "sites/all/modules/shrew"]
 	path = sites/all/modules/shrew
 	url = git@github.com:NYPL/shrew.git
+[submodule "sites/all/modules/securepages"]
+	path = sites/all/modules/securepages
+	url = http://git.drupal.org/project/securepages
