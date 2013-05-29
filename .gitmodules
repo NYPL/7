@@ -307,3 +307,12 @@
 [submodule "sites/all/modules/shrew"]
 	path = sites/all/modules/shrew
 	url = git@github.com:NYPL/shrew.git
+[submodule "sites/all/modules/uuid"]
+	path = sites/all/modules/uuid
+	url = http://git.drupal.org/project/uuid.git
+[submodule "sites/all/modules/feeds"]
+	path = sites/all/modules/feeds
+	url = http://git.drupal.org/project/feeds.git
+[submodule "sites/all/modules/job_scheduler"]
+	path = sites/all/modules/job_scheduler
+	url = http://git.drupal.org/project/job_scheduler.git
