@@ -304,3 +304,12 @@
 [submodule "sites/all/modules/securepages"]
 	path = sites/all/modules/securepages
 	url = http://git.drupal.org/project/securepages
+[submodule "sites/all/modules/uuid"]
+	path = sites/all/modules/uuid
+	url = http://git.drupal.org/project/uuid.git
+[submodule "sites/all/modules/feeds"]
+	path = sites/all/modules/feeds
+	url = http://git.drupal.org/project/feeds.git
+[submodule "sites/all/modules/job_scheduler"]
+	path = sites/all/modules/job_scheduler
+	url = http://git.drupal.org/project/job_scheduler.git
