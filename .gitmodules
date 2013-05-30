@@ -16,9 +16,6 @@
 [submodule "sites/all/modules/fieldgroup"]
 	path = sites/all/modules/fieldgroup
 	url = git://git.drupal.org/project/fieldgroup
-[submodule "sites/all/modules/imagefield"]
-	path = sites/all/modules/imagefield
-	url = git://git.drupal.org/project/imagefield
 [submodule "sites/all/modules/imagefield_tokens"]
 	path = sites/all/modules/imagefield_tokens
 	url = git://git.drupal.org/project/imagefield_tokens
@@ -64,15 +61,6 @@
 [submodule "sites/all/modules/features"]
 	path = sites/all/modules/features
 	url = git://git.drupal.org/project/features
-[submodule "sites/all/modules/image"]
-	path = sites/all/modules/image
-	url = git://git.drupal.org/project/image
-[submodule "sites/all/modules/img_assist"]
-	path = sites/all/modules/img_assist
-	url = git://git.drupal.org/project/img_assist
-[submodule "sites/all/modules/imageapi"]
-	path = sites/all/modules/imageapi
-	url = git://git.drupal.org/project/imageapi
 [submodule "sites/all/modules/imagecache"]
 	path = sites/all/modules/imagecache
 	url = git://git.drupal.org/project/imagecache
@@ -94,9 +82,6 @@
 [submodule "sites/all/modules/diff"]
 	path = sites/all/modules/diff
 	url = git://git.drupal.org/project/diff
-[submodule "sites/all/modules/fckeditor"]
-	path = sites/all/modules/fckeditor
-	url = git://git.drupal.org/project/fckeditor
 [submodule "sites/all/modules/globalredirect"]
 	path = sites/all/modules/globalredirect
 	url = git://git.drupal.org/project/globalredirect
@@ -238,12 +223,6 @@
 [submodule "sites/all/modules/nypl_digitalgallery"]
 	path = sites/all/modules/nypl_digitalgallery
 	url = git@github.com:NYPL/nypl_digitalgallery.git
-[submodule "sites/all/modules/ckeditor"]
-	path = sites/all/modules/ckeditor
-	url = http://git.drupal.org/project/ckeditor.git
-[submodule "sites/all/drush"]
-	path = sites/all/drush
-	url = git@github.com:NYPL/nypl_drush.git
 [submodule "sites/all/modules/wysiwyg"]
 	path = sites/all/modules/wysiwyg
 	url = http://git.drupal.org/project/wysiwyg.git
