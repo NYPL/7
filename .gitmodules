@@ -16,9 +16,6 @@
 [submodule "sites/all/modules/fieldgroup"]
 	path = sites/all/modules/fieldgroup
 	url = git://git.drupal.org/project/fieldgroup
-[submodule "sites/all/modules/filefield"]
-	path = sites/all/modules/filefield
-	url = git://git.drupal.org/project/filefield
 [submodule "sites/all/modules/imagefield"]
 	path = sites/all/modules/imagefield
 	url = git://git.drupal.org/project/imagefield
@@ -67,9 +64,6 @@
 [submodule "sites/all/modules/features"]
 	path = sites/all/modules/features
 	url = git://git.drupal.org/project/features
-[submodule "sites/all/modules/filefield_paths"]
-	path = sites/all/modules/filefield_paths
-	url = git://git.drupal.org/project/filefield_paths
 [submodule "sites/all/modules/image"]
 	path = sites/all/modules/image
 	url = git://git.drupal.org/project/image
