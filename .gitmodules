@@ -292,3 +292,6 @@
 [submodule "sites/all/modules/job_scheduler"]
 	path = sites/all/modules/job_scheduler
 	url = http://git.drupal.org/project/job_scheduler.git
+[submodule "sites/all/libraries/ckeditor"]
+	path = sites/all/libraries/ckeditor
+	url = https://github.com/ckeditor/ckeditor-releases.git
