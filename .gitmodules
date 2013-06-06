@@ -295,3 +295,6 @@
 [submodule "sites/all/libraries/ckeditor"]
 	path = sites/all/libraries/ckeditor
 	url = https://github.com/ckeditor/ckeditor-releases.git
+[submodule "sites/all/libraries/simplepie"]
+	path = sites/all/libraries/simplepie
+	url = https://github.com/simplepie/simplepie.git
