@@ -298,3 +298,6 @@
 [submodule "sites/all/libraries/simplepie"]
 	path = sites/all/libraries/simplepie
 	url = https://github.com/simplepie/simplepie.git
+[submodule "sites/all/modules/libraries"]
+	path = sites/all/modules/libraries
+	url = http://git.drupal.org/project/libraries.git
