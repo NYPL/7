@@ -301,3 +301,6 @@
 [submodule "sites/all/modules/libraries"]
 	path = sites/all/modules/libraries
 	url = http://git.drupal.org/project/libraries.git
+[submodule "sites/all/modules/wysiwyg_filter"]
+	path = sites/all/modules/wysiwyg_filter
+	url = http://git.drupal.org/project/wysiwyg_filter
