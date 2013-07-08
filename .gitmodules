@@ -292,7 +292,18 @@
 [submodule "sites/all/modules/job_scheduler"]
 	path = sites/all/modules/job_scheduler
 	url = http://git.drupal.org/project/job_scheduler.git
-	url = http://git.drupal.org/project/schema.git
+[submodule "sites/all/libraries/ckeditor"]
+	path = sites/all/libraries/ckeditor
+	url = https://github.com/ckeditor/ckeditor-releases.git
+[submodule "sites/all/libraries/simplepie"]
+	path = sites/all/libraries/simplepie
+	url = https://github.com/simplepie/simplepie.git
+[submodule "sites/all/modules/libraries"]
+	path = sites/all/modules/libraries
+	url = http://git.drupal.org/project/libraries.git
+[submodule "sites/all/modules/wysiwyg_filter"]
+	path = sites/all/modules/wysiwyg_filter
+	url = http://git.drupal.org/project/wysiwyg_filter
 [submodule "sites/all/modules/migrate"]
 	path = sites/all/modules/migrate
 	url = http://git.drupal.org/project/migrate.git
