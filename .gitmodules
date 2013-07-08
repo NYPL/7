@@ -292,3 +292,7 @@
 [submodule "sites/all/modules/job_scheduler"]
 	path = sites/all/modules/job_scheduler
 	url = http://git.drupal.org/project/job_scheduler.git
+	url = http://git.drupal.org/project/schema.git
+[submodule "sites/all/modules/migrate"]
+	path = sites/all/modules/migrate
+	url = http://git.drupal.org/project/migrate.git
