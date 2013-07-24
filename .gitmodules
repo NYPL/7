@@ -153,7 +153,7 @@
 	url = git://git.drupal.org/project/jquery_update
 [submodule "sites/all/modules/views"]
 	path = sites/all/modules/views
-	url = git://git.drupal.org/project/views
+	url = git@github.com:NYPL/views.git
 [submodule "sites/all/modules/views_bulk_operations"]
 	path = sites/all/modules/views_bulk_operations
 	url = git://git.drupal.org/project/views_bulk_operations
