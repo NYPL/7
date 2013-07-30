@@ -64,9 +64,6 @@
 [submodule "sites/all/modules/imagecache"]
 	path = sites/all/modules/imagecache
 	url = git://git.drupal.org/project/imagecache
-[submodule "sites/all/modules/gmap"]
-	path = sites/all/modules/gmap
-	url = git://git.drupal.org/project/gmap
 [submodule "sites/all/modules/nodewords"]
 	path = sites/all/modules/nodewords
 	url = git://git.drupal.org/project/nodewords
@@ -307,9 +304,6 @@
 [submodule "sites/all/modules/migrate"]
 	path = sites/all/modules/migrate
 	url = http://git.drupal.org/project/migrate.git
-[submodule "sites/all/modules/jcaption"]
-	path = sites/all/modules/jcaption
-	url = http://git.drupal.org/project/jcaption
 [submodule "sites/all/modules/awdsdk"]
 	path = sites/all/modules/awdsdk
 	url = http://git.drupal.org/project/awssdk.git
