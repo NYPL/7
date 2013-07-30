@@ -307,3 +307,6 @@
 [submodule "sites/all/modules/amazons3"]
 	path = sites/all/modules/amazons3
 	url = http://git.drupal.org/project/amazons3.git
+[submodule "sites/all/libraries/awssdk"]
+	path = sites/all/libraries/awssdk
+	url = http://git.drupal.org/project/awssdk.git
