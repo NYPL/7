@@ -304,9 +304,6 @@
 [submodule "sites/all/modules/migrate"]
 	path = sites/all/modules/migrate
 	url = http://git.drupal.org/project/migrate.git
-[submodule "sites/all/modules/jcaption"]
-	path = sites/all/modules/jcaption
-	url = http://git.drupal.org/project/jcaption
 [submodule "sites/all/libraries/awdsdk"]
 	path = sites/all/libraries/awdsdk
 	url = http://git.drupal.org/project/awssdk.git
