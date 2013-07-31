@@ -310,3 +310,6 @@
 [submodule "sites/all/libraries/awssdk"]
 	path = sites/all/libraries/awssdk
 	url = http://git.drupal.org/project/awssdk.git
+[submodule "sites/all/modules/awssdk"]
+	path = sites/all/modules/awssdk
+	url = http://git.drupal.org/project/awssdk.git
