@@ -307,6 +307,9 @@
 [submodule "sites/all/modules/migrate_d2d"]
 	path = sites/all/modules/migrate_d2d
 	url = http://git.drupal.org/project/migrate_d2d.git
+[submodule "sites/all/modules/nypl_migrate"]
+	path = sites/all/modules/nypl_migrate
+	url = git@github.com:NYPL/nypl_migrate.git
 [submodule "sites/all/modules/amazons3"]
 	path = sites/all/modules/amazons3
 	url = http://git.drupal.org/project/amazons3.git
