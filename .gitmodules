@@ -319,3 +319,6 @@
 [submodule "sites/all/modules/awssdk"]
 	path = sites/all/modules/awssdk
 	url = http://git.drupal.org/project/awssdk.git
+[submodule "sites/all/modules/nypl_homepage"]
+	path = sites/all/modules/nypl_homepage
+	url = git@github.com:NYPL/nypl_homepage.git
