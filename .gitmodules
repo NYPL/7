@@ -322,3 +322,6 @@
 [submodule "sites/all/modules/nypl_homepage"]
 	path = sites/all/modules/nypl_homepage
 	url = git@github.com:NYPL/nypl_homepage.git
+[submodule "sites/all/libraries/nypl-bibliophpile"]
+	path = sites/all/libraries/nypl-bibliophpile
+	url = git@github.com:NYPL/nypl-bibliophpile.git
