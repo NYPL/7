@@ -325,3 +325,9 @@
 [submodule "sites/all/libraries/nypl-bibliophpile"]
 	path = sites/all/libraries/nypl-bibliophpile
 	url = git@github.com:NYPL/nypl-bibliophpile.git
+[submodule "sites/all/modules/apachesolr_attachments"]
+	path = sites/all/modules/apachesolr_attachments
+	url = http://git.drupal.org/project/apachesolr_attachments.git
+[submodule "sites/all/modules/facetapi"]
+	path = sites/all/modules/facetapi
+	url = http://git.drupal.org/project/facetapi.git
