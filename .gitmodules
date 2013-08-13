@@ -323,3 +323,6 @@
 	path = sites/all/modules/facetapi
 	url = http://git.drupal.org/project/facetapi.git
 
+[submodule "sites/all/modules/shortcode"]
+	path = sites/all/modules/shortcode
+	url = http://git.drupal.org/project/shortcode.git
