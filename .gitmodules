@@ -326,3 +326,6 @@
 [submodule "sites/all/modules/shortcode"]
 	path = sites/all/modules/shortcode
 	url = http://git.drupal.org/project/shortcode.git
+[submodule "sites/all/modules/field_convert"]
+	path = sites/all/modules/field_convert
+	url = http://git.drupal.org/project/field_convert.git
