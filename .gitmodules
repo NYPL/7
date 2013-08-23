@@ -329,3 +329,9 @@
 [submodule "sites/all/modules/field_convert"]
 	path = sites/all/modules/field_convert
 	url = http://git.drupal.org/project/field_convert.git
+[submodule "sites/all/modules/images"]
+	path = sites/all/modules/images
+	url = http://git.drupal.org/project/image.git
+[submodule "sites/all/modules/image"]
+	path = sites/all/modules/image
+	url = http://git.drupal.org/project/image.git
