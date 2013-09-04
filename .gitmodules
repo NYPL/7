@@ -335,3 +335,6 @@
 [submodule "sites/all/modules/image"]
 	path = sites/all/modules/image
 	url = http://git.drupal.org/project/image.git
+[submodule "sites/all/themes/nypl_seven"]
+	path = sites/all/themes/nypl_seven
+	url = git@github.com:NYPL/nypl_seven.git
