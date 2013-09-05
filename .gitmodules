@@ -338,3 +338,9 @@
 [submodule "sites/all/themes/nypl_seven"]
 	path = sites/all/themes/nypl_seven
 	url = git@github.com:NYPL/nypl_seven.git
+[submodule "sites/all/modules/rules"]
+	path = sites/all/modules/rules
+	url = http://git.drupal.org/project/rules
+[submodule "sites/all/modules/registration"]
+	path = sites/all/modules/registration
+	url = http://git.drupal.org/project/registration
