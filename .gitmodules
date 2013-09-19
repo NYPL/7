@@ -344,3 +344,6 @@
 [submodule "sites/all/modules/registration"]
 	path = sites/all/modules/registration
 	url = http://git.drupal.org/project/registration
+[submodule "sites/all/modules/bc_sso"]
+	path = sites/all/modules/bc_sso
+	url = git@github.com:NYPL/bc_sso.git
