@@ -13,9 +13,6 @@
 [submodule "sites/all/modules/email"]
 	path = sites/all/modules/email
 	url = http://git.drupal.org/project/email.git
-[submodule "sites/all/modules/fieldgroup"]
-	path = sites/all/modules/fieldgroup
-	url = git://git.drupal.org/project/fieldgroup
 [submodule "sites/all/modules/imagefield_tokens"]
 	path = sites/all/modules/imagefield_tokens
 	url = git://git.drupal.org/project/imagefield_tokens
@@ -28,9 +25,6 @@
 [submodule "sites/all/modules/ctools"]
 	path = sites/all/modules/ctools
 	url = git://git.drupal.org/project/ctools
-[submodule "sites/all/modules/context"]
-	path = sites/all/modules/context
-	url = git://git.drupal.org/project/context
 [submodule "sites/all/modules/blog"]
 	path = sites/all/modules/blog
 	url = git://git.drupal.org/project/blog
@@ -73,18 +67,12 @@
 [submodule "sites/all/modules/comment_notify"]
 	path = sites/all/modules/comment_notify
 	url = git://git.drupal.org/project/comment_notify
-[submodule "sites/all/modules/customerror"]
-	path = sites/all/modules/customerror
-	url = git://git.drupal.org/project/customerror
 [submodule "sites/all/modules/diff"]
 	path = sites/all/modules/diff
 	url = git://git.drupal.org/project/diff
 [submodule "sites/all/modules/globalredirect"]
 	path = sites/all/modules/globalredirect
 	url = git://git.drupal.org/project/globalredirect
-[submodule "sites/all/modules/google_website_optimizer"]
-	path = sites/all/modules/google_website_optimizer
-	url = git://git.drupal.org/project/google_website_optimizer
 [submodule "sites/all/modules/job_queue"]
 	path = sites/all/modules/job_queue
 	url = git://git.drupal.org/project/job_queue
@@ -103,18 +91,12 @@
 [submodule "sites/all/modules/phpass"]
 	path = sites/all/modules/phpass
 	url = git://git.drupal.org/project/phpass
-[submodule "sites/all/modules/simplepie"]
-	path = sites/all/modules/simplepie
-	url = http://git.drupal.org/project/simplepie.git
 [submodule "sites/all/modules/taxonomy_defaults"]
 	path = sites/all/modules/taxonomy_defaults
 	url = git://git.drupal.org/project/taxonomy_defaults
 [submodule "sites/all/modules/taxonomy_delegate"]
 	path = sites/all/modules/taxonomy_delegate
 	url = git://git.drupal.org/project/taxonomy_delegate
-[submodule "sites/all/modules/taxonomy_manager"]
-	path = sites/all/modules/taxonomy_manager
-	url = git://git.drupal.org/project/taxonomy_manager
 [submodule "sites/all/modules/token"]
 	path = sites/all/modules/token
 	url = git://git.drupal.org/project/token
@@ -124,27 +106,9 @@
 [submodule "sites/all/modules/upload_element"]
 	path = sites/all/modules/upload_element
 	url = git://git.drupal.org/project/upload_element
-[submodule "sites/all/modules/signup"]
-	path = sites/all/modules/signup
-	url = git://git.drupal.org/project/signup
-[submodule "sites/all/modules/badbehavior"]
-	path = sites/all/modules/badbehavior
-	url = git://git.drupal.org/project/badbehavior
-[submodule "sites/all/modules/captcha"]
-	path = sites/all/modules/captcha
-	url = git://git.drupal.org/project/captcha
-[submodule "sites/all/modules/recaptcha"]
-	path = sites/all/modules/recaptcha
-	url = git://git.drupal.org/project/recaptcha
-[submodule "sites/all/modules/spamicide"]
-	path = sites/all/modules/spamicide
-	url = git://git.drupal.org/project/spamicide
 [submodule "sites/all/modules/extlink"]
 	path = sites/all/modules/extlink
 	url = git://git.drupal.org/project/extlink
-[submodule "sites/all/modules/jquery_ui"]
-	path = sites/all/modules/jquery_ui
-	url = git://git.drupal.org/project/jquery_ui
 [submodule "sites/all/modules/jquery_update"]
 	path = sites/all/modules/jquery_update
 	url = git://git.drupal.org/project/jquery_update
@@ -160,9 +124,6 @@
 [submodule "sites/all/modules/workflow"]
 	path = sites/all/modules/workflow
 	url = git://git.drupal.org/project/workflow
-[submodule "sites/all/modules/garland"]
-	path = sites/all/modules/garland
-	url = git://git.drupal.org/project/garland
 [submodule "sites/all/modules/metatag"]
 	path = sites/all/modules/metatag
 	url = http://git.drupal.org/project/metatag.git
@@ -259,12 +220,6 @@
 [submodule "sites/all/modules/field_group"]
 	path = sites/all/modules/field_group
 	url = http://git.drupal.org/project/field_group.git
-[submodule "sites/all/modules/nypl_bibliocommons"]
-	path = sites/all/modules/nypl_bibliocommons
-	url = git@github.com:NYPL/nypl_bibliocommons.git
-[submodule "sites/all/modules/apc"]
-	path = sites/all/modules/apc
-	url = http://git.drupal.org/project/apc
 [submodule "sites/all/modules/field_permissions"]
 	path = sites/all/modules/field_permissions
 	url = http://git.drupal.org/project/field_permissions
@@ -274,9 +229,6 @@
 [submodule "sites/all/modules/node_export"]
 	path = sites/all/modules/node_export
 	url = http://git.drupal.org/project/node_export.git
-[submodule "sites/all/modules/shrew"]
-	path = sites/all/modules/shrew
-	url = git@github.com:NYPL/shrew.git
 [submodule "sites/all/modules/securepages"]
 	path = sites/all/modules/securepages
 	url = http://git.drupal.org/project/securepages
@@ -322,7 +274,6 @@
 [submodule "sites/all/modules/facetapi"]
 	path = sites/all/modules/facetapi
 	url = http://git.drupal.org/project/facetapi.git
-
 [submodule "sites/all/modules/shortcode"]
 	path = sites/all/modules/shortcode
 	url = http://git.drupal.org/project/shortcode.git
